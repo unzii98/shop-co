@@ -1,3 +1,4 @@
+import Casual from "../casual/page";
 
 
 
@@ -36,6 +37,7 @@ export default function Test(){
             ))}
           </div>
         </div>
+        <Casual/>
       </div>
     );
   };

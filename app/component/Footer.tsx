@@ -1,7 +1,6 @@
 import { FaTwitter, FaFacebookF, FaInstagram, FaPinterest } from "react-icons/fa";
 import Image from "next/image";
 
-
 export default function Footer() {
   return (
     <footer className="bg-gray-100 text-gray-700">
@@ -31,7 +30,7 @@ export default function Footer() {
         <div>
           <h2 className="text-lg font-semibold mb-4 text-black">SHOP.CO</h2>
           <p className="text-sm text-gray-500">
-            We have clothes that suit your style and which you're proud to wear.
+            We have clothes that suit your style and which you&apos;re proud to wear.
             From women to men.
           </p>
           <div className="flex space-x-4 mt-4">
